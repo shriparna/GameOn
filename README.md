@@ -12,7 +12,7 @@
 3. [Sales_2019_2020.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/Sales_2019_2020.ipynb) Sales data between years of 2019 and 2020. Author: Jesus
 4. [games_by_rating_votes_MM.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/games_by_rating_votes_MM.ipynb). Top 20 Games and Ratings. Author: Marina 
 5. [genre_sm.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/genre_sm.ipynb) Analysis of video game genre. Author: Sherry
-6. [healthSK.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/healthSK.ipynb) Does mental health affect differently for Male or Female gamers. Author: Shridhar
+6. [healthSK.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/healthSK.ipynb) Does gaming affects mental health  differently for Male or Female gamers. Author: Shridhar
 7. [InputData](https://github.com/shriparna/GameOn/tree/main/InputData) All input data files are in this directory
 8. [Visuals](https://github.com/shriparna/GameOn/tree/main/Visuals) The visuals can be found in this directory
 9. [Presentation](https://docs.google.com/presentation/d/1JX_ZKHol0w1bfFU_Oh2WrBeBSIxb3f4f1kslOJ8TsjU/edit?usp=sharing)
