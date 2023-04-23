@@ -39,6 +39,9 @@
 <br>
 [Sales_2019_2020.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/Sales_2019_2020.ipynb) Sales data between years of 2019 and 2020. Author: Jesus
 
+<img width="582" alt="Screenshot 2023-04-22 at 23 37 32" src="https://user-images.githubusercontent.com/120141110/233818605-b2ef29b1-c813-4716-b790-93e59ae682ed.png">
+
+
 #### Conclusions
 In this data exercise our hypothesis was to see if gaming sales had increased during Covid. We utilized sales data from 2019 and 2020 for this comparison. We compared the sales data across regions and grouped by the genre to see which games performed the best for their respective years. Lastly, we merged the data from both years in order to get an illustration of changes between the year 2019 and 2020 in sales.
 The results showed that genres that were dominating the sales in 2019 carried over into 2020. While the total sales for each of the top 5 genres did decrease in 2020. That change was not enough to remove them from their 2019 spots. As for our question that we set out to answer. The conclusion was that during covid increase in sales did not occur.
@@ -47,11 +50,13 @@ Going by the sales data of console games between the year of 2019 to 2020, we ca
 
 
 ## Gaming and Mental Health Data
-<img width="616" alt="Screenshot 2023-04-18 at 19 37 24" src="https://user-images.githubusercontent.com/120141110/233818362-5becdc6b-91ac-446e-bacb-b5108f9394a5.png">
-
 
 [MI_PBP.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/MI_PBP.ipynb) Effect of hours of gaming on mental health. Author: Portia <br>
 [healthSK.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/healthSK.ipynb) Does gaming affects mental health  differently for Male or Female gamers. Author: Shridhar
+
+<img width="616" alt="Screenshot 2023-04-18 at 19 37 24" src="https://user-images.githubusercontent.com/120141110/233818362-5becdc6b-91ac-446e-bacb-b5108f9394a5.png">
+<img width="838" alt="Screenshot 2023-04-22 at 23 38 52" src="https://user-images.githubusercontent.com/120141110/233818657-bb441386-1c0a-4cbf-ba40-48d38651a70f.png">
+
 
 #### Conclusions:
 We hypothesized that gaming would have a detrimental effect on mental health. Analysis conducted found there was no relationship between hours spent gaming and mental health and therefore the null hypothesis was supported. In this data, people were asked using a reddit forum to respond to this survey and the researchers collected 13,464 responses across 108 countries. Generalized anxiety was measured using the General Anxiety Disorder-7 (GAD-7), narcissism was measured using a 5-scale narcissism rating, life satisfaction was measured using the Satisfaction with Life Scale (SWL), and social phobia was measured using the Social Phobia Inventory. Several outliers were found and data was analyzed with outliers included and removed. Pearsons R correlations were conducted and found no relationship between hours spent gaming and any of the measures given as all r-values were minimal. The level at which people found difficulty playing games and doing work was also measured and most answered "Not difficult at all" and secondmost people answered "Somewhat difficult" indication that while game-life balance may be a concern for some, for most it is not detrimental to their life.
@@ -64,6 +69,9 @@ We hypothesized that gaming would have a detrimental effect on mental health. An
 ## Gaming and Genre
 [games_by_rating_votes_MM.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/games_by_rating_votes_MM.ipynb). Top 20 Games and Ratings. Author: Marina  <br>
 [genre_sm.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/genre_sm.ipynb) Analysis of video game genre. Author: Sherry
+
+<img width="672" alt="Screenshot 2023-04-22 at 23 39 23" src="https://user-images.githubusercontent.com/120141110/233818652-82183820-ba5d-4b78-a4df-590befa47e41.png">
+
 
 
 
