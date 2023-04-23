@@ -30,7 +30,7 @@
 
 <hr>
 
-## Analyses/Conclusions:
+## Analysis/Conclusions:
 
 
 ## Gaming Sales Data
@@ -61,6 +61,8 @@ Going by the sales data of console games between the year of 2019 to 2020, we ca
 #### Conclusions:
 We hypothesized that gaming would have a detrimental effect on mental health. Analysis conducted found there was no relationship between hours spent gaming and mental health and therefore the null hypothesis was supported. In this data, people were asked using a reddit forum to respond to this survey and the researchers collected 13,464 responses across 108 countries. Generalized anxiety was measured using the General Anxiety Disorder-7 (GAD-7), narcissism was measured using a 5-scale narcissism rating, life satisfaction was measured using the Satisfaction with Life Scale (SWL), and social phobia was measured using the Social Phobia Inventory. Several outliers were found and data was analyzed with outliers included and removed. Pearsons R correlations were conducted and found no relationship between hours spent gaming and any of the measures given as all r-values were minimal. The level at which people found difficulty playing games and doing work was also measured and most answered "Not difficult at all" and secondmost people answered "Somewhat difficult" indication that while game-life balance may be a concern for some, for most it is not detrimental to their life.
 
+<img width="616" alt="Screenshot 2023-04-22 at 9 31 15 PM" src="https://user-images.githubusercontent.com/71340748/233819973-3eb0341a-bab9-4770-9848-9a80bbcef50b.png">
+
 - There is no special distinction in Male vs Female in terms of Mental Illness due to gaming. They both showed the same pattern
 - Hence it is concluded that the gaming affects Male and Female equally
 - Based on this data we cannot conclude definitely if the mental illness is more prominent in Male or Female.
@@ -72,7 +74,7 @@ We hypothesized that gaming would have a detrimental effect on mental health. An
 
 <img width="672" alt="Screenshot 2023-04-22 at 23 39 23" src="https://user-images.githubusercontent.com/120141110/233818652-82183820-ba5d-4b78-a4df-590befa47e41.png">
 
-<img width="838" alt="Screenshot 2023-04-22 at 23 38 52" src="https://user-images.githubusercontent.com/120141110/233818657-bb441386-1c0a-4cbf-ba40-48d38651a70f.png">
+<img width="672" alt="Screenshot 2023-04-22 at 23 38 52" src="https://user-images.githubusercontent.com/120141110/233818657-bb441386-1c0a-4cbf-ba40-48d38651a70f.png">
 
 
 #### Conclusions
@@ -87,7 +89,8 @@ There were a great amount of video games which been identified as `Action` genre
 `Action` genre got the most votes, which align to the answer of the first question, refer to: [Genre v.s. Votes](###Genre-v.s.-Votes)
 - We can say `Action` is the most popular genre based on previous analysis. Which genre will be the best to combine with `Action` if we would like to have a high rating?<br>
 The average rating for video games that only been identified as `Action` genre is 6.66. When we calculate the average rating of the combination of `Action` and the other genre, all the combinations got a higher rating than only `Action` genre itself, espicially `Action & Mystery`, which got 7.38 as the overall rating, refer to: [Action with other Genre Rating](###Action-with-other-Genre-Rating)
-- According to the Heatmap above, we can tell that the variables in this dataset are independent to each other, with the highest correlation of 0.22 between `rating` and `votes`, and the lowest of -0.22 between `Action` and `Mystery`.
+- According to the Heatmap below, we can tell that the variables in this dataset are independent to each other, with the highest correlation of 0.22 between `rating` and `votes`, and the lowest of -0.22 between `Action` and `Mystery`.
 
+<img width="616" alt="corr_heatmap" src="https://user-images.githubusercontent.com/71340748/233820078-03bb624f-ee2b-41ad-9bdb-44c40edc6719.png">
 
 <hr>
