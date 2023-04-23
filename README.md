@@ -1,4 +1,4 @@
-# Project 1 : Group 9
+# Project 1 : Group 9, Gaming from Production to Consumption
 
 ### Details of the Project 
 #### Date: 4/18/2023
