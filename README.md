@@ -1,6 +1,7 @@
 # Project 1 : Group 9, Gaming from Production to Consumption
 
 ### Details of the Project 
+#### Name: GameOn
 #### Date: 4/18/2023
 #### Presentation: 4/20/2023
 <hr>
