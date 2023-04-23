@@ -55,7 +55,7 @@ Going by the sales data of console games between the year of 2019 to 2020, we ca
 [healthSK.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/healthSK.ipynb) Does gaming affects mental health  differently for Male or Female gamers. Author: Shridhar
 
 <img width="616" alt="Screenshot 2023-04-18 at 19 37 24" src="https://user-images.githubusercontent.com/120141110/233818362-5becdc6b-91ac-446e-bacb-b5108f9394a5.png">
-<img width="838" alt="Screenshot 2023-04-22 at 23 38 52" src="https://user-images.githubusercontent.com/120141110/233818657-bb441386-1c0a-4cbf-ba40-48d38651a70f.png">
+
 
 
 #### Conclusions:
@@ -72,7 +72,7 @@ We hypothesized that gaming would have a detrimental effect on mental health. An
 
 <img width="672" alt="Screenshot 2023-04-22 at 23 39 23" src="https://user-images.githubusercontent.com/120141110/233818652-82183820-ba5d-4b78-a4df-590befa47e41.png">
 
-
+<img width="838" alt="Screenshot 2023-04-22 at 23 38 52" src="https://user-images.githubusercontent.com/120141110/233818657-bb441386-1c0a-4cbf-ba40-48d38651a70f.png">
 
 
 #### Conclusions
