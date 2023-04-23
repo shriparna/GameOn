@@ -47,6 +47,9 @@ Going by the sales data of console games between the year of 2019 to 2020, we ca
 
 
 ## Gaming and Mental Health Data
+<img width="616" alt="Screenshot 2023-04-18 at 19 37 24" src="https://user-images.githubusercontent.com/120141110/233818362-5becdc6b-91ac-446e-bacb-b5108f9394a5.png">
+
+
 [MI_PBP.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/MI_PBP.ipynb) Effect of hours of gaming on mental health. Author: Portia <br>
 [healthSK.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/healthSK.ipynb) Does gaming affects mental health  differently for Male or Female gamers. Author: Shridhar
 
@@ -61,6 +64,8 @@ We hypothesized that gaming would have a detrimental effect on mental health. An
 ## Gaming and Genre
 [games_by_rating_votes_MM.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/games_by_rating_votes_MM.ipynb). Top 20 Games and Ratings. Author: Marina  <br>
 [genre_sm.ipynb](https://github.com/shriparna/GameOn/blob/main/Code/genre_sm.ipynb) Analysis of video game genre. Author: Sherry
+
+
 
 #### Conclusions
 In general, top 20 games that have ratings 8.1 - 9.7 are in a range of 46903 - 181778 votes. There is no direct relationship between rating and votes for a game. A game that has a high rating doesn’t have the same position in high votes, except one game that has the highest rating and highest votes that match. It’s The Last of Us. For example, The Witcher 3: Wil Hunt and Red Dead Redemtion 2 have high ratings of 9.7 but they only rank 11th and 17th place out of 20 top games by votes. If a game developer wants to build a successful game, Last of Us is a good example for deep analysis from a game plot/characters/graphics point of view
